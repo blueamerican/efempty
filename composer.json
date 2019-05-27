@@ -1,0 +1,24 @@
+{
+  "name": "markusduebbert/efempty",
+  "type": "typo3-cms-extension",
+  "description": "",
+  "keywords": ["website", "content element"],
+  "homepage": "http://www.markusduebbert.de",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Markus Dübbert",
+      "email": "info@markusduebbert.de",
+      "homepage": "http://www.markusduebbert.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "typo3/cms": "^7.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "TalleuxZoellner\\TzT3CePerson\\": "Classes/"
+    }
+  }
+}
