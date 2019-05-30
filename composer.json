@@ -5,6 +5,7 @@
   "keywords": ["website", "content element"],
   "homepage": "http://www.markusduebbert.de",
   "license": "GPL-2.0+",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Markus Dübbert",
