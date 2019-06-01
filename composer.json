@@ -14,9 +14,6 @@
       "role": "Developer"
     }
   ],
-  "require": {
-    "typo3/cms-core": "^9.5"
-  },
   "autoload": {
     "psr-4": {
       "Markusduebbert\\Efempty\\": "Classes/"
